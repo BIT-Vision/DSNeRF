@@ -2,6 +2,7 @@
 The project is currently being improved，come soon!
 
 # Project Framework Diagram
+<img src="https://github.com/BIT-Vision/DSNeRF/blob/main/images/framework.pdf" alt="My Image" title="This is my image">
 [framework](https://github.com/BIT-Vision/DSNeRF/blob/main/images/framework.pdf)
 
 # Static Data Experimental Results
