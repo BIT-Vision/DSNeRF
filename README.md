@@ -2,13 +2,13 @@
 The project is currently being improved，come soon!
 
 # Project Framework Diagram
-[figmain-n.pdf](https://github.com/user-attachments/files/18763506/figmain-n.pdf)
+[framework](https://github.com/BIT-Vision/DSNeRF/blob/main/images/framework.pdf)
 
 # Static Data Experimental Results
-[a1.pdf](https://github.com/user-attachments/files/18763539/a1.pdf)
-[a2.pdf](https://github.com/user-attachments/files/18763540/a2.pdf)
-[a3.pdf](https://github.com/user-attachments/files/18763543/a3.pdf)
+[static1](https://github.com/BIT-Vision/DSNeRF/blob/main/images/static1.pdf)
+[static2](https://github.com/BIT-Vision/DSNeRF/blob/main/images/static2.pdf)
+[static3](https://github.com/BIT-Vision/DSNeRF/blob/main/images/static3.pdf)
 
 # Dynamic Data Experimental Results
-[s52.pdf](https://github.com/user-attachments/files/18763544/s52.pdf)
-[a4.pdf](https://github.com/user-attachments/files/18763545/a4.pdf)
+[dynamic1](https://github.com/BIT-Vision/DSNeRF/blob/main/images/dynamic1.pdf)
+[dynamic2](https://github.com/BIT-Vision/DSNeRF/blob/main/images/dynamic2.pdf)
